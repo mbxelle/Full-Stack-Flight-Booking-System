@@ -28,7 +28,7 @@ We have completed **Phase 1: Requirements Analysis**
 
 ---
 
-## Skills – Applied vs. In Progress  
+## Skills – Current/In Progress  
 
 ### Currently Applied  
 - Requirements Engineering (actors, FRs, NFRs, glossary, assumptions)  
