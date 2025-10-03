@@ -5,7 +5,7 @@ Full-stack flight booking system built in Java with SQL database, responsive fro
 
 - **Requirements Analysis → System Design → Implementation → Testing → Final Demo**  
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 - **Languages & Tools:** Java, SQL, HTML, CSS, JavaScript  
 - **Frameworks & Patterns:** MVC, Singleton, Observer  
